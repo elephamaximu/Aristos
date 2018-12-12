@@ -18,7 +18,7 @@
 
 <c:if test="${sessionScope.emp!=null }">
 <ul>
-<li><a href="${path}/emp/emplist.go">직원조회</a></li>
+<li><a href="${path}/emp/emplist.go">직원조dfdfdfdfdfdf회</a></li>
 <li><a href="${path}/emp/empInsert.go">직원등록</a></li>
 <li><a href="${path}/emp/deptlist.go">부서조회</a></li>
 <li><a href="${path}/emp/joblist.go">직책조회</a></li>
